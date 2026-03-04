@@ -1,4 +1,4 @@
-# Kaushik Portfolio + MotivateMe Website
+# Kaushal Portfolio + MotivateMe Website
 
 ## Run Locally
 
